@@ -18,27 +18,26 @@
 </p>
 
 <!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/gabrielfac">
-        <img src="https://avatars.githubusercontent.com/u/30088334?v=4" alt="@gabrielfac"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>.NET C#, Azure e IA.
-      <br/>
-     🌟Lider Técnico 
-      <br/>
-    👨‍💻 Foco em AI, Cloud e CloudNative
-    </p>
-
-    </td>
-  </tr>
-</thead>
+<table align="center" border="0" cellpadding="5" cellspacing="0">
+  <thead>
+    <tr>
+      <th align="center">
+        <p>Expert</p>
+        <a href="https://github.com/gabrielfac" target="_blank" rel="noopener noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/30088334?v=4" alt="@gabrielfac" style="width:100px; height:auto;"><br>
+        </a>
+      </th>
+      <th colspan="3" align="left">
+        <p>
+          .NET C#, Azure e IA.<br/>
+          🌟 Líder Técnico<br/>
+          👨‍💻 Foco em AI, Cloud e Cloud Native
+        </p>
+      </th>
+    </tr>
+  </thead>
 </table>
+
 <!--  -->
 
 <br/>
