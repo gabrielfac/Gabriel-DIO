@@ -23,33 +23,18 @@
   <tr>
     <td>
         <p align="center">Expert</p>
-        <a href="https://github.com/hsouzaeduardo">
-        <img src="https://avatars.githubusercontent.com/u/1692867?v=4" alt="@hsouzaeduardo"><br>
+        <a href="https://github.com/gabrielfac">
+        <img src="https://avatars.githubusercontent.com/u/30088334?v=4" alt="@gabrielfac"><br>
       </a>
     </td>
     <td colspan="3">
-    <p>🎉 25y+ em sistemas comerciais com .NET C#, python, Azure e IA.
+    <p>.NET C#, Azure e IA.
       <br/>
-     🌟 Gerente Especialista em Arquitetura e IA 
+     🌟Lider Técnico 
       <br/>
     👨‍💻 Foco em AI, Cloud e CloudNative
     </p>
-      <a 
-      href="https://www.linkedin.com/in/hsouzaeduardo/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/hsouzaeduardo81/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
+
     </td>
   </tr>
 </thead>
