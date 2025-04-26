@@ -106,12 +106,3 @@ Após a conclusão do curso/projeto, os estudantes estarão aptos a:
 - Construir uma aplicação completa com backend em contêiner, armazenando dados na nuvem e com observabilidade configurada.
 
 <!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
